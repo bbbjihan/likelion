@@ -26,6 +26,16 @@ h1{
     font-size: 20px;
 }
 
+ol{
+    margin:0px;
+    margin-left:-24px;
+}
+
+ul{
+    margin:0px;
+    margin-left:-24px;
+}
+
 .line{
     border: 0px;
 }
