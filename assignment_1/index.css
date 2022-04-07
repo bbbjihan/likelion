@@ -26,6 +26,20 @@ h1{
     font-size: 20px;
 }
 
+.line{
+    border: 0px;
+}
+
+.description{
+    border: 1px solid #ce93d8;
+    border-radius: 5px;
+    margin: 30px;
+    margin-top: 10px;
+    padding: 30px;
+    box-shadow: 0 1px 20px 0 rgba(0,0,0,0.2);
+    background-color:#ce93d8;
+}
+
 .list{
     display: flex;
     justify-content: center;
