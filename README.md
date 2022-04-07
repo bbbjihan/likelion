@@ -1,2 +1,2 @@
-# likelion
+# 🦁likelion
 멋쟁이사자처럼 대학교 10기 광운대학교
